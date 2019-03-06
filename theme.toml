@@ -1,6 +1,6 @@
 name = "BeyondNothing"
 license = "MIT"
-licenselink = "https://github.com/salcan/BeyondNothing/blob/master/LICENSE"
+licenselink = "https://github.com/ckoske/BeyondNothing/blob/master/LICENSE"
 description = "Simplest Hugo theme possible"
 homepage = "https://cloudconfusing.com/"
 min_version = 0.14
